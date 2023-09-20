@@ -1,0 +1,12 @@
+-------------- RELATÓRIO --------------
+Subaru:
+
+ - Modelo:WRX - Cor:Azul - Combustivel:Gasolina - Preço125900.0 - Ano:29/09/2016
+ - Modelo:Impreza - Cor:Azul-Safira - Combustivel:Gasolina - Preço59800.0 - Ano:12/05/2021
+ - Modelo:Impreza-Base - Cor:Azul-Safira - Combustivel:Gasolina - Preço59800.0 - Ano:12/05/2021
+ - Modelo:Forester-Premium - Cor:Verde-Floresta - Combustivel:Hibrido - Preço79900.0 - Ano:16/05/2022
+ - Modelo:Outback-Limited - Cor:Prata-Metálico - Combustivel:Flex - Preço88500.0 - Ano:26/03/2020
+ - Modelo:WRX-STI - Cor:Vermelho-Rally - Combustivel:Gasolina - Preço105200.0 - Ano:12/12/2015
+
+Data da consulta: 20/09/2023 01:49:52
+-------------- FIM RELATÓRIO --------------

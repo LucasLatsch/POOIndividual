@@ -1,0 +1,11 @@
+-------------- RELATÓRIO --------------
+Toyota:
+
+ - Modelo:Corolla - Cor:Prata - Combustivel:Flex - Preço86000.0 - Ano:16/10/2009
+ - Modelo:Hilux-SR - Cor:Cinza-Metálico - Combustivel:Diesel - Preço98200.0 - Ano:16/08/2022
+ - Modelo:Etios-XS - Cor:Azul-Metálico - Combustivel:Flex - Preço48700.0 - Ano:15/02/2021
+ - Modelo:RAV4-XLE - Cor:Prata-Lunar - Combustivel:Gasolina - Preço91500.0 - Ano:03/08/2017
+ - Modelo:Corolla-LE - Cor:Branco-Pérola - Combustivel:Hibrido - Preço82900.0 - Ano:12/02/2021
+
+Data da consulta: 20/09/2023 01:49:52
+-------------- FIM RELATÓRIO --------------

@@ -1,0 +1,11 @@
+-------------- RELATÓRIO --------------
+Honda:
+
+ - Modelo:Civic - Cor:Cinza - Combustivel:Gasolina - Preço125000.0 - Ano:20/12/2018
+ - Modelo:Civic-LX - Cor:Cinza-Metálico - Combustivel:Flex - Preço68700.0 - Ano:02/12/2021
+ - Modelo:Fit-EX - Cor:Azul-Oceano - Combustivel:Gasolina - Preço57900.0 - Ano:21/02/2023
+ - Modelo:CR-V-Touring - Cor:Preto Pérola - Combustivel:Hibrido - Preço98500.0 - Ano:05/07/2019
+ - Modelo:HR-V-Sport - Cor:Vermelho-Paixão - Combustivel:Flex - Preço73200.0 - Ano:16/09/2023
+
+Data da consulta: 20/09/2023 01:49:51
+-------------- FIM RELATÓRIO --------------

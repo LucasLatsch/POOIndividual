@@ -1,0 +1,11 @@
+-------------- RELATÓRIO --------------
+VolksWagen:
+
+ - Modelo:Gol - Cor:Preto - Combustivel:Flex - Preço39500.0 - Ano:19/10/2014
+ - Modelo:Golf-Comfortline - Cor:Prata-Reflex - Combustivel:Flex - Preço72400.0 - Ano:19/07/2018
+ - Modelo:Polo-Highline - Cor:Azul-Noturno - Combustivel:Gasolina - Preço59900.0 - Ano:13/06/2020
+ - Modelo:T-Cross-Comfort - Cor:Vermelho-Sunset - Combustivel:Hibrido - Preço85700.0 - Ano:12/02/2023
+ - Modelo:Amarok-Highline - Cor:Cinza Indium - Combustivel:Diesel - Preço12030.0 - Ano:05/01/2023
+
+Data da consulta: 20/09/2023 01:49:53
+-------------- FIM RELATÓRIO --------------

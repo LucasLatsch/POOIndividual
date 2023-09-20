@@ -1,0 +1,11 @@
+-------------- RELATÓRIO --------------
+Fiat:
+
+ - Modelo:Uno - Cor:Branco - Combustivel:Gasolina - Preço15000.0 - Ano:12/08/2006
+ - Modelo:Fiero - Cor:Vermelho - Combustivel:Diesel - Preço65800.0 - Ano:20/06/2023
+ - Modelo:Punto-Easy - Cor:Branco-Neve - Combustivel:Gasolina - Preço45500.0 - Ano:02/01/2023
+ - Modelo:Urbano - Cor:Azul-Céu - Combustivel:Gasolina - Preço52500.0 - Ano:10/06/2023
+ - Modelo:LuxoDrive-S4 - Cor:Preto Onix - Combustivel:Hibrido - Preço89.9 - Ano:16/10/2022
+
+Data da consulta: 20/09/2023 01:49:51
+-------------- FIM RELATÓRIO --------------
